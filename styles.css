@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px 0;
+    background-color: cyan;
+}
+
+.recipeList {
+    list-style-type: none;
+    font-size: 20px;
+    text-align: center;
+}
+
+.recipeItem {
+    background-color: aliceblue;
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+.recipeImg {
+    display: block;
+    height: 200px;
+    width: 200px;
+    margin: 10px auto;
+}
